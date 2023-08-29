@@ -1,0 +1,12 @@
+{
+    "section-name-1": [
+        {"name": "site-name-1", "url": "site-url-1"},
+        {"name": "site-name-2", "url": "site-url-2"},
+        {"name": "site-name-3", "url": "site-url-3"}
+    ],
+    "section-name-2": [
+        {"name": "site-name-4", "url": "site-url-4"},
+        {"name": "site-name-5", "url": "site-url-5"},
+        {"name": "site-name-6", "url": "site-url-6"}
+    ]
+}
